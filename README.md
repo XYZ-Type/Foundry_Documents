@@ -8,6 +8,6 @@ There are currently two folders: EULA and Business_docs. The EULA folder has, su
 
 All these documents are provided under a Creative Commons CC0 license. You are free to use these documents, no attribution needed. However, **we are not lawyers, and nothing is legal advice. We strongly suggest that you have a lawyer review them to ensure they say what you think they say. These are freely provided for the community; there is no warranty implied, given, or stated. Likewise, we disclaim any liability arising from using these documents.**
 
-**Note:** These documents have XXXX in them for things that you need to fill in for your use, please search for them!
+**Note:** These documents have **XXXX** in them for things that you need to fill in for your use, please search for them!
 
 These documents were developed for us by Bryan Wasetis of (Aspect Law Group)[https://www.aspectlg.com] (EULAs) and Elizabeth Clark of (EAS Management)[https://www.easmgmt.com] (distribution agreement).

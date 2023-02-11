@@ -28,4 +28,4 @@ Index of documents
 - **‌third_party_distribution_addendum.md** Addendum that allows distribution to third parties (think a large company that wants to hand the font to their advertising partners).
 - **‌trial_font_eula.md** A self contained EULA for trial fonts (either free or paid).
 
-**Note:** These documents have XXXX in them for things that you need to fill in for your use, please search for them!
+**Note:** These documents have **XXXX** in them for things that you need to fill in for your use, please search for them!

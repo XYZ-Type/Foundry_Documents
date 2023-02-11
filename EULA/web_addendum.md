@@ -10,4 +10,4 @@ c\. **Changing Domain**. If You wish to change the domain that the web fonts are
 
 d\. **Subdomains**. You may use the Fonts on subdomains of the licensed domain.
 
-e\. **Employee-based License Price**. The price of the License is determined based on the total number of people, including temporary workers, simultaneously employed by You, the owner of the website, at the time of purchase. If Your number of employees increases to more than XXXX% of the number listed on your Order Invoice, You must purchase an upgraded license from Us or discontinue use of the Fonts.
+e\. **Employee-based License Price**. The price of the License is determined based on the total number of people, including temporary workers, simultaneously employed by You, the owner of the website, at the time of purchase. If Your number of employees increases to more than **XXXX**% of the number listed on your Order Invoice, You must purchase an upgraded license from Us or discontinue use of the Fonts.
