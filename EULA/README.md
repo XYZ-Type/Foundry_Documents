@@ -14,7 +14,7 @@ In particular, five items are worth calling out:
 You likely should read our customer facing [license article](https://xyztype.com/articles/licensing_our_fonts) to understand all our thinking (and read the [EULAs](https://xyztype.com/eula/desktop) on our site to also see our TL;DR sections).
 
 Are these documents still pretty 'legalese'? Yes. We tried to make them more plain language but landed here out of trying to make something that we felt safe and legally defensible. In that vein, to be very clear: 
-> **We are not lawyers, and none of these documents are legal advice. You are free to use these documents, but we strongly suggest that you have a lawyer review them to ensure they say what you think they say. These are freely provided for the community; there is no warranty implied, given, or stated. Likewise, we disclaim any liability arising from using these documents.**
+> **We are not lawyers, and nothing is legal advice. You are free to use these documents, but we strongly suggest that you have a lawyer review them to ensure they say what you think they say. These are freely provided for the community; there is no warranty implied, given, or stated. Likewise, we disclaim any liability arising from using these documents.**
 
 Index of documents
 - **base.md** The base, should be included with everything.

@@ -1,5 +1,5 @@
-Commercial Product Addendum
+## Commercial Product Addendum
 
 This Commercial Product Addendum is incorporated into the Agreement if You selected and paid for commercial product font rights in the Order Invoice, and provides additional rights for the License by allowing You to use the Fonts on the commercial product during the term and subject to the restrictions specified on Your Order Invoice. We grant You under the License the additional rights stated in this addendum.
 
-a\. Non-Perpetual. This License is non-perpetual and is subject to the terms stated on the Order Invoice, which may include limits on the number of impressions. No sell-off period for the commercial products is provided after the end of the term, and You shall cease all use of the Fonts and commercial products embodying the Fonts by the end of the term unless You purchase an extension to Your License.
+a\. **Non-Perpetual**. This License is non-perpetual and is subject to the terms stated on the Order Invoice, which may include limits on the number of impressions. No sell-off period for the commercial products is provided after the end of the term, and You shall cease all use of the Fonts and commercial products embodying the Fonts by the end of the term unless You purchase an extension to Your License.
