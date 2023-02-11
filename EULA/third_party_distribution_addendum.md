@@ -1,0 +1,7 @@
+Third Party Distribution Addendum
+
+This Vendor Addendum is incorporated into the Agreement if You selected and paid for vendor font rights in the Order Invoice, and provides additional rights for the License by allowing You to temporarily share the Fonts with external contractors, affiliates, vendors, or other third parties outside the business entity specified in the Order Invoice (“External Contractors”). We grant You under the License the additional rights stated in this addendum.
+
+a\. Sharing Fonts. You may only share the Fonts with External Contractors that are providing services to You that require the use of the Fonts. You shall ensure that the External Contractors: (i) only use the Fonts for Your projects; (ii) do not retain any copies of the Fonts after they have completed the services; (iii) do not transfer, give access to, or distribute any part of any Fonts to any third party; and (iv) do not attempt in any way to emulate, mimic, or otherwise create a substitute for any Fonts, including outlining. You are responsible for any liability arising from use of the Fonts by External Contractors.
+
+b\. Employee-based License Price. The price of the License is determined based on the total number of people, including temporary workers, simultaneously employed by You, the owner of the website, at the time of purchase. If Your number of employees increases to more than XXXX% of the number listed on your Order Invoice, You must purchase an upgraded license from Us or discontinue use of the Fonts.

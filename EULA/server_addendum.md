@@ -1,0 +1,7 @@
+Server Addendum
+
+This Server Addendum is incorporated into the Agreement if You selected and paid for server font rights in the Order Invoice, and provides additional rights for the License by allowing You to install or incorporate the Fonts into a software product, install the product on servers in Your control (“Licensed Servers”), and allow third-party users (“End Users”) to access and use the product on Licensed Services to create documents that embed or otherwise use the Fonts (for example, PDFs, rasterized images, or other personalized graphics), and grants End Users the right to use the Fonts in the created documents. We grant You under the License the additional rights stated in this addendum.
+
+a\. Document Embedding. The Licensed Servers may embed the Fonts into electronic documents only if the electronic documents are distributed in a secure format that allows only printing and viewing, and prohibits editing, enhancing, extracting, or modifying the text. If the Licensed Servers are for internal use only (within Your organization), the Licensed Servers may also allow the fonts embedded in a secure format that allows End Users to edit the Embedded Documents.
+
+b\. Editable use. The use of the Fonts for static, dynamic or editable text is permitted. Editable text in embedded documents is governed by the terms of this Agreement, including any additional Addendum(s).
