@@ -10,4 +10,4 @@ All these documents are provided under a Creative Commons CC0 license. You are f
 
 **Note:** These documents have **XXXX** in them for things that you need to fill in for your use, please search for them!
 
-These documents were developed for us by Bryan Wasetis of (Aspect Law Group)[https://www.aspectlg.com] (EULAs) and Elizabeth Clark of (EAS Management)[https://www.easmgmt.com] (distribution agreement).
+These documents were developed for us by Bryan Wasetis of [Aspect Law Group](https://www.aspectlg.com) (EULAs) and Elizabeth Clark of [EAS Management](https://www.easmgmt.com) (distribution agreement).
