@@ -1,4 +1,4 @@
-**Exclusive License Agreement**
+# Exclusive License Agreement
 
 THIS AGREEMENT dated this \_\_ day of \_\_\_\_\_\_\_,  \_\_\_\_ (the “Effective Date”) is between XXXX (“XXXX”) having an office at XXXX and \_\_\_\_\_\_\_\_\_\_\_ (“Designer”), having an address of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (individually a “party,” together the “parties”).
 

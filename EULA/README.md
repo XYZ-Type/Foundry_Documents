@@ -1,4 +1,4 @@
-EULAs
+# EULAs
 
 Our EULAs are structured as a base document that sets forth most of the common language, and then each license type is an addendum to the base document. This allows for a much more compact document that can be flexible for a client’s usage.
 
